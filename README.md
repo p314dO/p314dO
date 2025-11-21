@@ -1,4 +1,4 @@
-<h1>p314d0</h1>
+<h1>Nicolas Gula aka p314d0</h1>
 
 I love Offensive Security and technology, currently playing with MCP servers.
 This is my [blog](https://p314do.github.io/blog/)
