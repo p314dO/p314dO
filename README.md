@@ -1,9 +1,8 @@
 <h1>p314d0</h1>
 
-I love Offensive Security and technology, currently playing with MCP servers.
+# 💫 About Me:
+I love Offensive Security and technology<br>🔭 I’m currently working on my OSCP<br>
 This is my [blog](https://p314do.github.io/blog/)
-
-   
 
 <a href="https://credentials.offsec.com/a3ecd71f-77cf-4f0d-b69f-2b009e8cbfba#acc.rRLqoO3b" target="_blank"><img width="80" height="80" src="https://static.offsec.com/media/lms/credentials/OSWP_Acclaim_Badge.svg" /></a>
 <a href="https://www.credly.com/badges/b78a1805-393c-4d48-9db3-d047ec2bb223" target="_blank"><img width="80" height="80"  src="https://images.credly.com/images/95043c37-e916-4e4e-96ab-06fb66056648/blob" /></a>
@@ -13,3 +12,28 @@ This is my [blog](https://p314do.github.io/blog/)
 <a href="https://certs.ine.com/ebed1996-53e3-4d3c-8710-efd59525aa33#acc.MVgc9qdB" target="_blank"><img width="80" height="80" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5eg89gvu907k5ns96lqlz" /></a>
 <a href="https://certs.ine.com/3044d2c0-2909-4725-8bfc-1441c004b414#acc.UQD2Z8t5" target="_blank"><img width="80" height="80" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc4rcyjmlbk07ir6t6m20d2" /></a>
 <a href="https://certs.ine.com/b127ccd7-1653-4575-b0c2-089abd62e536#acc.H8k7fVhi" target="_blank"><img width="80" height="80" src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" /></a>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolasgula/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=p314dO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=p314dO&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=p314dO&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=p314dO&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=p314dO&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=p314dO&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
