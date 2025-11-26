@@ -1,7 +1,7 @@
 <h1>p314d0</h1>
 
 # 💫 About Me:
-I love Offensive Security and technology<br>🔭 I’m currently working on my OSCP<br>
+I love Offensive Security and technology. 🔭 I’m currently working on all HTB certifications.
 - This is my [BLOG](https://p314do.github.io/blog/)
 - This is my [LINKEDIN](https://linkedin.com/in/https://www.linkedin.com/in/nicolasgula/)
 
