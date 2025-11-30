@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I love Offensive Security and technology. 🔭 I’m currently working on all [HTB certifications](https://academy.hackthebox.com/preview/certifications).
-- This is my [BLOG](https://p314do.github.io/blog/](https://p314do.github.io/secai/)
+- This is my [BLOG](https://p314do.github.io/secai/)
 - This is my [LINKEDIN](https://linkedin.com/in/https://www.linkedin.com/in/nicolasgula/)
 
 <a href="https://credentials.offsec.com/a3ecd71f-77cf-4f0d-b69f-2b009e8cbfba#acc.rRLqoO3b" target="_blank"><img width="80" height="80" src="https://static.offsec.com/media/lms/credentials/OSWP_Acclaim_Badge.svg" /></a>
