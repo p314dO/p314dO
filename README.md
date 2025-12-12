@@ -5,6 +5,8 @@ I love Offensive Security and technology. 🔭 I’m currently working on all [H
 - This is my [BLOG](https://p314do.github.io/secai/)
 - This is my [LINKEDIN](https://www.linkedin.com/in/nicolasgula/)
 
+<a href="https://images.credential.net/badge/tiny/aw9eh36l_1765370531658_badge.png" target="_blank"><img width="80" height="80" src="https://images.credential.net/badge/tiny/aw9eh36l_1765370531658_badge.png" /></a>
+<a href="https://images.credential.net/badge/tiny/5hubk57g_1765371517481_badge.png" target="_blank"><img width="80" height="80" src="https://images.credential.net/badge/tiny/5hubk57g_1765371517481_badge.png" /></a>
 <a href="https://credentials.offsec.com/a3ecd71f-77cf-4f0d-b69f-2b009e8cbfba#acc.rRLqoO3b" target="_blank"><img width="80" height="80" src="https://static.offsec.com/media/lms/credentials/OSWP_Acclaim_Badge.svg" /></a>
 <a href="https://www.credly.com/badges/b78a1805-393c-4d48-9db3-d047ec2bb223" target="_blank"><img width="80" height="80"  src="https://images.credly.com/images/95043c37-e916-4e4e-96ab-06fb66056648/blob" /></a>
 <a href="https://www.credential.net/1b9ab4b4-006d-4f31-a7ca-3ec3a0538ba1#acc.e7mLu50q" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" /></a>
