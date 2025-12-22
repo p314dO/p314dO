@@ -1,7 +1,7 @@
 <h1>p314d0</h1>
 
 # 💫 About Me:
-I love Offensive Security and technology. 🔭 I’m currently working on all [HTB certifications](https://academy.hackthebox.com/preview/certifications).
+I love Offensive Security and technology. 🔭 I’m currently working on [Detection Engineering things](https://github.com/p314dO/Detection-Engineering) and learning more, more and more about Cloud.
 - This is my [BLOG](https://p314do.github.io/secai/)
 - This is my [LINKEDIN](https://www.linkedin.com/in/nicolasgula/)
 
