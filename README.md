@@ -1,7 +1,7 @@
 <h1>p314d0</h1>
 
 # 💫 About Me:
-I love Offensive Security and technology. 🔭 I’m currently working on [AI things]().
+I love Offensive Security and technology. 🔭 I’m currently working on [AI things](https://github.com/p314dO/AI-Engineering).
 - This is my [BLOG](https://p314do.github.io/secai/)
 - This is my [LINKEDIN](https://www.linkedin.com/in/nicolasgula/)
 
