@@ -8,6 +8,7 @@
 
 ## AI Engineer Projects
 - 🗺️ **[Atlas AI](https://github.com/NicolasJoseGula/Atlas-AI)** - AI security intelligence agent powered by MITRE ATLAS.
+- 🧑‍🍳 **[Personal Chef](https://github.com/NicolasJoseGula/Personal-Chef)** - AI agent that suggests recipes based on the ingredients you have at home
 - 🦙 **[Llama GPT](https://github.com/NicolasJoseGula/LLamaGPT)** - A tiny copy of ChatGPT using llama via groq api.
 - 💬 **[Automated Support Knowledge Base](https://github.com/NicolasJoseGula/Automated-Support-Knowledge-Base)** - Upload documents and get answers.
 - 🤖 **[Butler Agent](https://github.com/NicolasJoseGula/Butler-Agent)** - A conversational AI agent.
